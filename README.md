@@ -1,4 +1,4 @@
-# Launching your particle filter for Ass1
+# Launching the PF package
 
 - Launch Gazebo Simulation:
 
